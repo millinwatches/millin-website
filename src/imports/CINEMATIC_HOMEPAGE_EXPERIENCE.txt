@@ -1,0 +1,1337 @@
+HOUSE OF MILLIN
+DIGITAL MAISON EXPERIENCE
+
+PASS 02 — THE HOUSE
+
+CINEMATIC HOMEPAGE EXPERIENCE
+
+Build the complete cinematic homepage experience for House of MILLIN using the Design System created in PASS 01.
+
+IMPORTANT:
+
+This is not an e-commerce homepage.
+
+This is not a product landing page.
+
+This is not a conventional luxury watch website.
+
+This homepage is the DIGITAL ENTRANCE HALL of House of MILLIN.
+
+The visitor should feel that they have entered a private Maison dedicated to horological art.
+
+The homepage must unfold like:
+
+a film,
+a private residence,
+a museum,
+an art book,
+an atelier,
+and a personal invitation.
+
+The experience should be slow.
+
+Quiet.
+
+Cinematic.
+
+Human.
+
+Architectural.
+
+Editorial.
+
+The visitor should never feel rushed.
+
+The visitor should never feel that they are being sold a watch.
+
+The visitor should feel that they are discovering a world.
+
+The fundamental narrative principle is:
+
+HERO SPACE
+→
+HERO CRAFT
+→
+HERO HUMAN
+→
+HERO CREATION
+→
+HERO COLLECTOR
+→
+HERO LEGACY
+
+The watch is the culmination of the journey.
+
+Never the starting point.
+
+--------------------------------------------------
+01 — HOMEPAGE EXPERIENCE
+--------------------------------------------------
+
+The homepage should be treated as a continuous cinematic journey.
+
+Do not design it as a collection of disconnected sections.
+
+Do not use conventional card grids as the main visual language.
+
+Do not create repetitive modular blocks.
+
+Do not use excessive dividers.
+
+Do not make every section look like a separate website module.
+
+The entire homepage must feel like one continuous film.
+
+The scroll is the camera.
+
+The visitor controls the pace.
+
+The House reveals itself gradually.
+
+Every section should feel like entering another room.
+
+The experience should follow:
+
+ARRIVE
+→
+OBSERVE
+→
+ENTER
+→
+UNDERSTAND
+→
+DISCOVER
+→
+FEEL
+→
+DESIRE
+→
+CONNECT
+
+--------------------------------------------------
+02 — PROLOGUE
+--------------------------------------------------
+
+The website begins in darkness.
+
+Full viewport.
+
+Deep charcoal background.
+
+No navigation initially.
+
+No product.
+
+No collection.
+
+No commercial message.
+
+Begin with:
+
+black.
+
+silence.
+
+a subtle movement of light.
+
+Then reveal fragments.
+
+A hand.
+
+A brush.
+
+A burin.
+
+Metal.
+
+Enamel powder.
+
+Fire.
+
+A page.
+
+A reflection.
+
+A movement component.
+
+A quiet atelier.
+
+Do not reveal a complete watch.
+
+The first 5–10 seconds should communicate:
+
+Something is being created.
+
+Something is being preserved.
+
+Something requires time.
+
+Use cinematic video or a sequence of still images with slow transitions.
+
+The movement should be extremely subtle.
+
+No fast cuts.
+
+No advertising energy.
+
+No dramatic luxury effects.
+
+Suggested visual sequence:
+
+BLACK
+
+↓
+
+soft light
+
+↓
+
+hand
+
+↓
+
+tool
+
+↓
+
+material
+
+↓
+
+fire
+
+↓
+
+craft
+
+↓
+
+silence
+
+↓
+
+HOUSE OF MILLIN
+
+--------------------------------------------------
+03 — HERO / THE HOUSE
+--------------------------------------------------
+
+Transition from darkness into a full-screen architectural environment.
+
+Show the interior of the House.
+
+Possible environment:
+
+Private Salon.
+
+Library.
+
+Atelier.
+
+Collector Residence.
+
+The architecture must feel:
+
+quiet,
+warm,
+cultured,
+private,
+timeless.
+
+The visitor should feel physically present inside the room.
+
+Use:
+
+natural daylight,
+oak,
+stone,
+leather,
+linen,
+bronze,
+books,
+sketches.
+
+No visible watch display.
+
+No product wall.
+
+No retail counter.
+
+No showroom.
+
+The architecture is the hero.
+
+Headline:
+
+HOUSE OF MILLIN
+
+Subheadline:
+
+A House of Horological Art.
+
+Supporting line:
+
+Handcrafted horological art,
+created for a handful of collectors.
+
+Primary CTA:
+
+ENTER THE HOUSE
+
+Secondary CTA:
+
+DISCOVER THE ATELIER
+
+The hero should feel like an invitation.
+
+Not a sales proposition.
+
+--------------------------------------------------
+04 — NAVIGATION BEHAVIOUR
+--------------------------------------------------
+
+At the beginning:
+
+minimal navigation.
+
+As the user scrolls:
+
+navigation becomes visible.
+
+Navigation should remain discreet.
+
+Use:
+
+THE HOUSE
+ATELIER
+MÉTIERS D'ART
+CREATIONS
+BESPOKE
+COLLECTORS
+JOURNAL
+BOUTIQUES
+
+Secondary:
+
+SERVICE
+CORRESPONDENCE
+
+The navigation should behave like a discreet architectural guide.
+
+Do not use a large commercial sticky header.
+
+On scroll:
+
+reduce visual density.
+
+Maintain negative space.
+
+Use subtle transitions.
+
+--------------------------------------------------
+05 — PHILOSOPHY
+--------------------------------------------------
+
+After the hero,
+
+slow the experience down.
+
+The screen becomes quieter.
+
+Large negative space.
+
+Dark charcoal or warm ivory background.
+
+Introduce the philosophy.
+
+Headline:
+
+IN AN AGE DEFINED BY SPEED,
+WE CHOOSE PATIENCE.
+
+No additional copy immediately.
+
+Let the statement remain alone.
+
+Create a long pause.
+
+The visitor should feel the change of rhythm.
+
+Use slow text reveal.
+
+No decorative elements.
+
+No cards.
+
+No buttons.
+
+This section is a moment of silence.
+
+--------------------------------------------------
+06 — THE HOUSE / ARCHITECTURAL JOURNEY
+--------------------------------------------------
+
+Begin a visual journey through the House.
+
+Create a sequence of spaces.
+
+ENTRANCE HALL
+
+↓
+
+PRIVATE SALON
+
+↓
+
+LIBRARY
+
+↓
+
+ATELIER
+
+The visitor should feel as though they are walking through the building.
+
+Each space receives:
+
+one large image or video,
+one short title,
+one short sentence.
+
+Examples:
+
+PRIVATE SALON
+
+Where conversations begin.
+
+LIBRARY
+
+Where knowledge becomes memory.
+
+ATELIER
+
+Where ideas become creations.
+
+Use cinematic transitions.
+
+Do not use traditional cards.
+
+Allow images to occupy most of the viewport.
+
+Text should remain minimal.
+
+--------------------------------------------------
+07 — THE ATELIER
+--------------------------------------------------
+
+The Atelier is the emotional centre of the homepage.
+
+The House becomes alive.
+
+Show:
+
+hands,
+tools,
+brushes,
+fire,
+metal,
+paper,
+wood,
+movement components.
+
+Use human presence.
+
+No posed portraits.
+
+No fashion photography.
+
+The artisan should be observed.
+
+Show:
+
+concentration,
+patience,
+precision.
+
+Headline:
+
+INSIDE THE ATELIER
+
+Supporting text:
+
+Where patience becomes craft.
+
+CTA:
+
+ENTER THE ATELIER
+
+The section should feel documentary.
+
+Not promotional.
+
+--------------------------------------------------
+08 — HERO CRAFT
+--------------------------------------------------
+
+Introduce Métiers d'Art.
+
+This is the second major hero.
+
+The visitor has already entered the House.
+
+Now they discover what makes the House different.
+
+Create four cinematic chapters.
+
+GRAND FEU ENAMEL
+
+Beauty, preserved through fire.
+
+HAND ENGRAVING
+
+Guided by the human hand.
+
+GUILLOCHÉ
+
+Precision transformed into rhythm.
+
+MINIATURE PAINTING
+
+Where time becomes art.
+
+Each craft should have:
+
+one cinematic hero image,
+one macro image,
+one short statement.
+
+Use vertical or horizontal scroll-based reveals.
+
+The craft should be shown before any complete watch.
+
+--------------------------------------------------
+09 — HUMAN PRESENCE
+--------------------------------------------------
+
+Create a dedicated human chapter.
+
+The House is built by people.
+
+Show:
+
+artisan hands,
+master craftsmen,
+designers,
+collectors,
+hosts.
+
+The face is secondary.
+
+The gesture is primary.
+
+Use:
+
+Hands that Create.
+
+Hands that Preserve.
+
+Hands that Welcome.
+
+Hands that Contemplate.
+
+Visual sequence:
+
+hand opens sketchbook
+
+↓
+
+hand touches material
+
+↓
+
+burin engraves metal
+
+↓
+
+brush paints enamel
+
+↓
+
+artisan observes
+
+↓
+
+collector studies a creation
+
+The transition should connect craft to human devotion.
+
+Headline:
+
+THE HUMAN HAND
+
+Supporting text:
+
+Every creation begins with a gesture.
+
+--------------------------------------------------
+10 — THE TRANSITION TO CREATIONS
+--------------------------------------------------
+
+The transition from craft to watches must be gradual.
+
+Do not suddenly display a product grid.
+
+The first creation should emerge from darkness.
+
+Or from the atelier.
+
+Or from the hands of the artisan.
+
+The visitor should feel:
+
+Now I understand where this came from.
+
+Only now reveal the creation.
+
+--------------------------------------------------
+11 — HERO CREATION
+--------------------------------------------------
+
+Introduce the first creation as a portrait.
+
+Not a product.
+
+Not a listing.
+
+Not a card.
+
+Create a full-screen cinematic presentation.
+
+First creation:
+
+YELLOW TIGER
+
+Headline:
+
+YELLOW TIGER
+
+Subheadline:
+
+A study of strength and stillness.
+
+Show:
+
+the complete creation,
+macro details,
+enamel,
+engraving,
+painting,
+materials.
+
+Use slow transitions.
+
+No technical specifications initially.
+
+No price.
+
+No availability.
+
+No shopping language.
+
+CTA:
+
+DISCOVER THE CREATION
+
+--------------------------------------------------
+12 — THE CREATIONS
+--------------------------------------------------
+
+After the first creation,
+
+introduce the wider world of MILLIN creations.
+
+Use editorial storytelling.
+
+Recommended sequence:
+
+YELLOW TIGER
+
+A study of strength and stillness.
+
+↓
+
+GRACEFUL CRANE
+
+A reflection on time and transience.
+
+↓
+
+GOLDEN PEACOCK
+
+An expression of beauty and symbolism.
+
+↓
+
+STARRY NIGHT
+
+A meditation on infinity.
+
+↓
+
+ROYAL WAVE
+
+A study of motion and balance.
+
+Each creation receives:
+
+one visual statement,
+one cinematic image,
+one conceptual sentence.
+
+Do not create a traditional grid as the primary experience.
+
+Use:
+
+vertical storytelling,
+horizontal scroll,
+full-screen transitions,
+editorial split screens,
+large image compositions.
+
+Only after the editorial introduction provide access to collection details.
+
+--------------------------------------------------
+13 — THE MUSEUM PRINCIPLE
+--------------------------------------------------
+
+Every creation should feel like an object entering a museum archive.
+
+The photography must follow:
+
+Portrait of Place.
+
+Portrait of Form.
+
+Portrait of Light.
+
+Portrait of Craft.
+
+Portrait of Time.
+
+Portrait of Belonging.
+
+Portrait of Legacy.
+
+The creation must feel:
+
+documented,
+preserved,
+studied.
+
+Never:
+
+advertised.
+
+--------------------------------------------------
+14 — RARITY
+--------------------------------------------------
+
+After the creations,
+
+slow down again.
+
+Dark background.
+
+Large negative space.
+
+Introduce rarity.
+
+Headline:
+
+CRAFTED IN SMALL QUANTITIES.
+
+Supporting lines:
+
+80 pieces.
+
+Hundreds of hours.
+
+Hand finished.
+
+No additional commercial language.
+
+No scarcity tactics.
+
+No countdowns.
+
+No "only X remaining."
+
+Rarity is communicated through restraint.
+
+--------------------------------------------------
+15 — BESPOKE ATELIER
+--------------------------------------------------
+
+This is one of the emotional peaks of the homepage.
+
+The House becomes personal.
+
+Introduce:
+
+ONE COLLECTOR.
+
+ONE ARTISAN.
+
+ONE CREATION.
+
+Headline:
+
+CREATED FOR ONE.
+
+Subheadline:
+
+Private commissions.
+
+Show:
+
+a sketch,
+a conversation,
+a material,
+a hand,
+an engraving,
+an enamel sample,
+a movement,
+a final creation.
+
+The experience should feel intimate.
+
+The collector should feel that the creation does not exist until the relationship begins.
+
+CTA:
+
+BEGIN A PRIVATE CONVERSATION
+
+Do not use:
+
+BUY.
+
+SHOP.
+
+ORDER.
+
+REQUEST PRICE.
+
+The action is a conversation.
+
+--------------------------------------------------
+16 — THE COLLECTOR
+--------------------------------------------------
+
+Introduce the collector not as a customer.
+
+But as a participant in the House.
+
+Show:
+
+a private salon,
+a collector reading,
+a collector studying a creation,
+a conversation,
+a presentation ritual.
+
+Headline:
+
+FOR A HANDFUL OF COLLECTORS.
+
+Supporting text:
+
+Some creations are not made for many.
+
+They are made for those who understand.
+
+CTA:
+
+ENTER THE COLLECTOR EXPERIENCE
+
+--------------------------------------------------
+17 — PRIVATE PRESENTATION
+--------------------------------------------------
+
+Introduce the Boutique experience.
+
+Show:
+
+one table,
+three chairs,
+natural light,
+stone,
+wood,
+books,
+quiet hospitality.
+
+Headline:
+
+PRIVATE PRESENTATION.
+
+Supporting:
+
+By appointment.
+
+The space must feel like a private residence.
+
+Not a retail store.
+
+CTA:
+
+REQUEST A PRIVATE APPOINTMENT
+
+Secondary:
+
+FIND A BOUTIQUE
+
+--------------------------------------------------
+18 — LIFETIME CARE
+--------------------------------------------------
+
+Introduce Service as stewardship.
+
+The creation does not leave the House when it enters a collection.
+
+The relationship continues.
+
+Headline:
+
+LIFETIME CARE.
+
+Supporting:
+
+Preservation through time.
+
+Show:
+
+hands,
+movement,
+tools,
+restoration,
+atelier.
+
+CTA:
+
+DISCOVER LIFETIME CARE
+
+--------------------------------------------------
+19 — JOURNAL
+--------------------------------------------------
+
+The House becomes intellectual.
+
+Introduce the Journal.
+
+Show:
+
+books,
+sketches,
+archives,
+calligraphy,
+paintings,
+materials,
+architecture.
+
+Headline:
+
+THE JOURNAL.
+
+Supporting:
+
+Ideas, materials, histories and the culture of horological art.
+
+Use editorial cards sparingly.
+
+Prefer large editorial stories.
+
+Show three or four featured stories.
+
+Do not make this look like a corporate blog.
+
+--------------------------------------------------
+20 — FINAL ROOM
+--------------------------------------------------
+
+The homepage begins to disappear.
+
+Reduce visual information.
+
+Darkness returns.
+
+The movement fades.
+
+The House becomes quiet.
+
+Final statement:
+
+MILLIN
+
+TIME, CRAFTED.
+
+No promotional banner.
+
+No newsletter popup.
+
+No aggressive CTA.
+
+The visitor should feel:
+
+I have entered a House.
+
+I have seen its spaces.
+
+I have understood its craft.
+
+I have met its people.
+
+I have discovered its creations.
+
+I have been invited into its world.
+
+--------------------------------------------------
+21 — SCROLL RHYTHM
+--------------------------------------------------
+
+The entire homepage must have a cinematic rhythm.
+
+Use:
+
+FAST
+only for entering and transitioning.
+
+MEDIUM
+for discovery.
+
+SLOW
+for philosophy and craft.
+
+VERY SLOW
+for Bespoke and Collector moments.
+
+SILENCE
+for the final experience.
+
+Recommended rhythm:
+
+PROLOGUE
+Slow
+
+THE HOUSE
+Medium
+
+PHILOSOPHY
+Very Slow
+
+ARCHITECTURE
+Slow
+
+ATELIER
+Medium
+
+CRAFT
+Slow
+
+HUMAN
+Very Slow
+
+CREATIONS
+Medium
+
+RARITY
+Very Slow
+
+BESPOKE
+Very Slow
+
+COLLECTOR
+Slow
+
+BOUTIQUE
+Slow
+
+JOURNAL
+Medium
+
+EPILOGUE
+Very Slow
+
+--------------------------------------------------
+22 — VISUAL HIERARCHY
+--------------------------------------------------
+
+The visual priority of the homepage must follow:
+
+1. SPACE
+
+2. LIGHT
+
+3. MATERIAL
+
+4. HUMAN
+
+5. CRAFT
+
+6. CREATION
+
+7. DETAIL
+
+8. SPECIFICATION
+
+Never reverse this order.
+
+--------------------------------------------------
+23 — HOMEPAGE IMAGE DIRECTION
+--------------------------------------------------
+
+Use original or AI-generated editorial photography.
+
+Never use generic stock photography.
+
+Architecture:
+
+Private Maison.
+
+Atelier:
+
+Real craftsmanship.
+
+Human:
+
+Authentic gestures.
+
+Craft:
+
+Macro documentary.
+
+Creations:
+
+Museum portraiture.
+
+Collectors:
+
+Culture and discretion.
+
+Boutique:
+
+Private hospitality.
+
+Every image should feel like it belongs to the same photographic archive.
+
+--------------------------------------------------
+24 — HOMEPAGE VIDEO DIRECTION
+--------------------------------------------------
+
+Use video strategically.
+
+Video should appear in:
+
+Prologue.
+
+Hero / The House.
+
+Atelier.
+
+Craft.
+
+Bespoke.
+
+Collector.
+
+Final transition.
+
+Do not make every section a video.
+
+Still photography creates pauses.
+
+Video creates presence.
+
+The rhythm should alternate:
+
+VIDEO
+
+↓
+
+STILL
+
+↓
+
+TEXT
+
+↓
+
+VIDEO
+
+↓
+
+STILL
+
+↓
+
+SILENCE
+
+--------------------------------------------------
+25 — INTERACTION DESIGN
+--------------------------------------------------
+
+Create prototype interactions.
+
+Include:
+
+Enter the House
+
+Scroll reveal
+
+Image transition
+
+Video fade
+
+Craft chapter navigation
+
+Creation reveal
+
+Bespoke CTA
+
+Private appointment
+
+Journal exploration
+
+Navigation overlay
+
+Mobile menu
+
+The interaction language should feel:
+
+slow,
+precise,
+quiet.
+
+--------------------------------------------------
+26 — RESPONSIVE EXPERIENCE
+--------------------------------------------------
+
+Desktop:
+
+cinematic,
+architectural,
+immersive.
+
+Tablet:
+
+editorial,
+spacious,
+balanced.
+
+Mobile:
+
+intimate,
+vertical,
+slow.
+
+Do not simply stack desktop sections.
+
+Recompose the narrative for mobile.
+
+Preserve:
+
+negative space,
+large typography,
+cinematic imagery,
+human gestures.
+
+--------------------------------------------------
+27 — FINAL CREATIVE TEST
+--------------------------------------------------
+
+Before approving the homepage ask:
+
+Does the visitor see the House before the watch?
+
+Does architecture come before product?
+
+Does craft come before collection?
+
+Does human presence create emotional credibility?
+
+Does the visitor understand why MILLIN exists?
+
+Does the Atelier feel real?
+
+Does Bespoke feel emotionally important?
+
+Does the collector feel invited?
+
+Does the website feel like a private Maison?
+
+Does the visitor feel that the watch is the culmination of the story?
+
+Does the homepage feel relevant in twenty years?
+
+If the answer is NO,
+
+redesign.
+
+--------------------------------------------------
+28 — FINAL OUTPUT
+--------------------------------------------------
+
+Build the complete homepage prototype.
+
+Create:
+
+1. Desktop homepage
+
+2. Tablet adaptation
+
+3. Mobile adaptation
+
+4. Full navigation
+
+5. Cinematic scroll interactions
+
+6. Video placeholders
+
+7. Image placeholders
+
+8. Editorial typography
+
+9. Craft chapters
+
+10. Creation storytelling
+
+11. Bespoke Atelier
+
+12. Collector experience
+
+13. Boutique experience
+
+14. Journal
+
+15. Final Epilogue
+
+The final result must feel like:
+
+THE DIGITAL ENTRANCE TO HOUSE OF MILLIN.
+
+Not a website.
+
+Not a catalogue.
+
+Not a store.
+
+A House.
+
+The visitor should leave thinking:
+
+"I did not browse MILLIN.
+
+I entered it."
+
+HOUSE OF MILLIN
+
+A HOUSE OF HOROLOGICAL ART.
+
+TIME, CRAFTED.

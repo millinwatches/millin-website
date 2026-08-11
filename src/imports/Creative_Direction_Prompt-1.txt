@@ -1,0 +1,1403 @@
+MASTER PROMPT FOR FIGMA
+HOUSE OF MILLIN
+DIGITAL MAISON EXPERIENCE
+MASTER CREATIVE DIRECTION PROMPT
+
+Redesign and evolve the existing MILLIN digital experience into a complete Digital Maison Experience.
+
+This is NOT an e-commerce website.
+This is NOT a traditional luxury watch website.
+This is NOT a product catalogue.
+This is NOT a visual redesign based primarily on watches.
+
+The website must feel like entering a private international Maison dedicated to horological art.
+
+The visitor should feel that they have entered:
+
+a private salon,
+an atelier,
+a library,
+an archive,
+a cultural institution,
+and finally a world of exceptional mechanical creations.
+
+The website should unfold like a film.
+
+Like walking through a private residence.
+
+Like turning the pages of a rare art book.
+
+Like being invited into the world of a House that exists for a small circle of collectors.
+
+The fundamental principle is:
+
+HERO SPACE
+→ HERO CRAFT
+→ HERO HUMAN
+→ HERO CREATION
+→ HERO COLLECTOR
+→ HERO LEGACY
+
+The watch is the culmination of the story.
+
+Never the beginning.
+
+--------------------------------------------------
+01 — BRAND POSITIONING
+--------------------------------------------------
+
+Position House of MILLIN as:
+
+A House of Horological Art.
+
+A contemporary Maison preserving rare Métiers d'Art and transforming them into exceptional mechanical creations.
+
+The brand must feel closer to:
+
+a private European Maison,
+an art institution,
+a collector's residence,
+a historic atelier,
+a contemporary museum,
+
+than to:
+
+a watch retailer,
+an e-commerce store,
+a jewellery boutique,
+a fashion brand,
+or a conventional luxury watch manufacturer.
+
+The core positioning:
+
+HOUSE OF MILLIN
+A House of Horological Art.
+
+Alternative editorial statement:
+
+Handcrafted horological art,
+created for a handful of collectors.
+
+The brand should communicate:
+
+patience,
+craftsmanship,
+rarity,
+culture,
+human mastery,
+hospitality,
+discretion,
+and permanence.
+
+Never communicate:
+
+mass luxury,
+commercial urgency,
+discounts,
+sales pressure,
+product obsession,
+or aggressive conversion.
+
+--------------------------------------------------
+02 — THE PRIMARY EXPERIENCE
+--------------------------------------------------
+
+The website must be experienced as a journey through the House.
+
+The visitor should move through spaces rather than website sections.
+
+The digital architecture should feel like:
+
+Entrance Hall
+→ Private Salon
+→ Library
+→ Atelier
+→ Métiers d'Art
+→ Gallery
+→ Bespoke Atelier
+→ Collector Experience
+→ Boutique
+→ Archive / Journal
+→ Legacy
+
+The scroll should feel like walking through rooms.
+
+Every transition should feel like passing through a doorway.
+
+Every new chapter should reveal a different emotional state.
+
+Do not use conventional section separators.
+
+Use:
+
+light transitions,
+architectural transitions,
+darkness,
+whitespace,
+slow image reveals,
+full-screen imagery,
+video,
+material changes,
+and subtle motion.
+
+--------------------------------------------------
+03 — HOMEPAGE NARRATIVE
+--------------------------------------------------
+
+Build the homepage as a cinematic narrative.
+
+The visitor should not immediately see a product grid.
+
+The first 60–70% of the homepage should establish the world of MILLIN before introducing the complete watch collection.
+
+Recommended narrative:
+
+PROLOGUE
+THE HOUSE
+THE PHILOSOPHY
+THE ATELIER
+MÉTIERS D'ART
+THE HUMAN HAND
+THE CREATIONS
+RARITY
+BESPOKE ATELIER
+PRIVATE COLLECTOR EXPERIENCE
+BOUTIQUE
+JOURNAL
+LEGACY
+
+The final impression should be:
+
+"I did not visit a watch website.
+I entered a House."
+
+--------------------------------------------------
+04 — HERO SPACE PRINCIPLE
+--------------------------------------------------
+
+The first visual priority is always SPACE.
+
+The opening hero should show the world of MILLIN before showing a watch.
+
+Use:
+
+architectural interiors,
+natural daylight,
+private salons,
+atelier spaces,
+library environments,
+craft tables,
+stone,
+oak,
+leather,
+paper,
+tools,
+hands,
+fire,
+enamel,
+and quiet human activity.
+
+The hero should communicate atmosphere before information.
+
+Avoid starting with:
+
+a floating watch,
+a product render,
+a watch on black background,
+a product carousel,
+a specification block,
+or a commercial CTA.
+
+The visitor must first feel the House.
+
+--------------------------------------------------
+05 — PROLOGUE
+--------------------------------------------------
+
+Create a cinematic opening sequence.
+
+Black.
+
+Silence.
+
+Very slow emergence of light.
+
+Macro details.
+
+A brush.
+
+A burin.
+
+Fire.
+
+Enamel powder.
+
+A hand.
+
+Metal.
+
+Paper.
+
+The sound of a workshop.
+
+The balance wheel may appear only as a subtle final detail.
+
+Do not reveal a complete watch immediately.
+
+The opening should create anticipation.
+
+Headline:
+
+HOUSE OF MILLIN
+
+Subheadline:
+
+A House of Horological Art.
+
+Supporting copy:
+
+A devotion to time as art.
+
+Primary CTA:
+
+ENTER THE HOUSE
+
+The CTA should feel like entering a private world,
+not starting a shopping journey.
+
+--------------------------------------------------
+06 — THE PHILOSOPHY
+--------------------------------------------------
+
+Create a very quiet editorial section.
+
+Large typography.
+
+Large negative space.
+
+Minimal visual information.
+
+Use the statement:
+
+In an age defined by speed,
+we choose patience.
+
+Do not add unnecessary supporting copy.
+
+Allow the statement to exist as a visual pause.
+
+--------------------------------------------------
+07 — MÉTIERS D'ART
+--------------------------------------------------
+
+Introduce craftsmanship before products.
+
+Create four major craft chapters:
+
+GRAND FEU ENAMEL
+
+HAND ENGRAVING
+
+GUILLOCHÉ
+
+MINIATURE PAINTING
+
+Each chapter should include:
+
+one cinematic image or video,
+one macro craft image,
+one short editorial statement,
+and subtle scroll reveal.
+
+Example copy:
+
+GRAND FEU ENAMEL
+Beauty, preserved through fire.
+
+HAND ENGRAVING
+Guided by the human hand.
+
+GUILLOCHÉ
+Precision transformed into rhythm.
+
+MINIATURE PAINTING
+Where time becomes art.
+
+The visitor should understand:
+
+These are not simply watches.
+
+These are creations.
+
+--------------------------------------------------
+08 — HUMAN PRESENCE
+--------------------------------------------------
+
+Human presence is essential.
+
+Show:
+
+artisans,
+masters,
+designers,
+collectors,
+hosts,
+and hands.
+
+People must never look like commercial models.
+
+No posed luxury lifestyle photography.
+
+No exaggerated smiles.
+
+No fashion campaign styling.
+
+People should:
+
+work,
+observe,
+read,
+sketch,
+engrave,
+paint,
+listen,
+discuss,
+present,
+and study.
+
+Hands are a central visual language.
+
+Use:
+
+Hands that Create.
+Hands that Preserve.
+Hands that Welcome.
+Hands that Contemplate.
+
+Faces remain secondary.
+
+Gesture is more important than posing.
+
+The House should feel inhabited even when nobody is visible.
+
+An open book,
+a moved chair,
+a pencil,
+an unfinished sketch,
+a brush,
+a cup,
+a workbench,
+
+should suggest human presence.
+
+--------------------------------------------------
+09 — ARCHITECTURAL PHOTOGRAPHY
+--------------------------------------------------
+
+Architecture is the first creation of the House.
+
+The interior should feel like:
+
+a private residence,
+a collector's library,
+a cultural salon,
+a working atelier.
+
+Never like:
+
+a retail store,
+a jewellery showroom,
+a shopping mall,
+or a conventional watch boutique.
+
+Create visual spaces for:
+
+ENTRANCE HALL
+PRIVATE SALON
+ATELIER
+LIBRARY
+ARCHIVE
+BESPOKE ROOM
+BOUTIQUE
+
+The Private Salon should include:
+
+one large table,
+three or four chairs,
+natural wood,
+stone,
+books,
+soft daylight,
+and quiet hospitality.
+
+Do not place multiple tables.
+
+Do not create a showroom atmosphere.
+
+The Boutique should feel residential and intimate.
+
+No visible price tags.
+
+No sales counters.
+
+No aggressive product displays.
+
+No bright retail lighting.
+
+--------------------------------------------------
+10 — MATERIAL LANGUAGE
+--------------------------------------------------
+
+Use materials as emotional architecture.
+
+Primary materials:
+
+European oak
+walnut
+natural stone
+travertine
+limestone
+bronze
+brass
+steel
+natural leather
+linen
+cotton paper
+natural plaster
+glass
+
+Precious materials:
+
+gold,
+white gold,
+rose gold,
+platinum,
+
+must remain restrained.
+
+The visual hierarchy is:
+
+LIVING MATERIALS
+→ NATURAL MATERIALS
+→ CRAFTED MATERIALS
+→ PRECIOUS MATERIALS
+
+Gold must never dominate the composition.
+
+Natural materials and craftsmanship must create the luxury.
+
+Avoid:
+
+plastic,
+synthetic surfaces,
+high-gloss laminates,
+fake marble,
+artificial leather,
+excessive polished gold,
+or decorative luxury clichés.
+
+Textures should feel authentic.
+
+Visible wood grain.
+
+Leather pores.
+
+Paper fibres.
+
+Stone variation.
+
+Enamel depth.
+
+Engraving micro-shadows.
+
+--------------------------------------------------
+11 — LIGHT CONSTITUTION
+--------------------------------------------------
+
+Light is the first architect of the House.
+
+Use:
+
+natural daylight,
+soft window light,
+museum lighting,
+warm reflected light,
+fire,
+and gentle shadow.
+
+The room receives light before the object.
+
+Preferred lighting:
+
+morning daylight,
+overcast daylight,
+late afternoon,
+soft museum evening.
+
+Avoid:
+
+neon,
+RGB lighting,
+hard flash,
+fashion lighting,
+aggressive rim light,
+overexposure,
+and artificial luxury effects.
+
+The House has four emotional light states:
+
+ARRIVAL LIGHT
+Soft morning light.
+
+CRAFT LIGHT
+Honest atelier light.
+
+COLLECTOR LIGHT
+Warm private salon light.
+
+LEGACY LIGHT
+Quiet museum/archive light.
+
+Use lighting to communicate where the visitor is emotionally.
+
+--------------------------------------------------
+12 — COMPOSITION SYSTEM
+--------------------------------------------------
+
+Composition must feel architectural.
+
+Use:
+
+generous negative space,
+calm geometry,
+deep perspective,
+layered foreground,
+middle ground,
+background,
+and controlled asymmetry.
+
+The composition hierarchy:
+
+SPACE
+→ LIGHT
+→ GEOMETRY
+→ HUMAN
+→ CRAFT
+→ CREATION
+→ DETAIL
+
+One hero per frame.
+
+Never overcrowd.
+
+Use the 70/30 principle:
+
+70% atmosphere and space.
+30% subject.
+
+Negative space is a defining luxury signal.
+
+The frame should feel discovered,
+not staged.
+
+Use partial revelation.
+
+Do not show everything.
+
+Allow the House to continue beyond the frame.
+
+Preferred camera language:
+
+24mm — architecture
+35mm — interiors
+50mm — editorial storytelling
+85mm — portraits
+100mm macro — craftsmanship
+135mm — compression
+
+Preferred camera height:
+
+145–160cm for architectural photography.
+
+The camera should behave like a respectful guest.
+
+--------------------------------------------------
+13 — HOROLOGICAL PHOTOGRAPHY
+--------------------------------------------------
+
+Only after the visitor understands the House should the creations become central.
+
+Treat watches as museum objects.
+
+Never as catalogue products.
+
+Every creation should be documented through:
+
+1. Portrait of Place
+2. Portrait of Form
+3. Portrait of Light
+4. Portrait of Craft
+5. Portrait of Time
+6. Portrait of Belonging
+7. Portrait of Legacy
+
+The watch should appear:
+
+inside architecture,
+inside a library,
+on an atelier table,
+beside sketches,
+in the hands of an artisan,
+in the hands of a collector,
+or inside the House archive.
+
+Never make the watch float in empty space.
+
+Never use excessive reflections.
+
+Never use commercial product lighting.
+
+Never use aggressive effects.
+
+The watch should glow.
+
+It should never sparkle theatrically.
+
+--------------------------------------------------
+14 — CREATIONS
+--------------------------------------------------
+
+Introduce the collections as artistic chapters.
+
+Do not create a standard e-commerce grid as the primary presentation.
+
+Use editorial storytelling.
+
+Each creation receives:
+
+one atmospheric hero image,
+one portrait,
+one craft detail,
+one conceptual statement,
+and one deeper exploration.
+
+Examples:
+
+YELLOW TIGER
+A study of strength and stillness.
+
+GRACEFUL CRANE
+A reflection on time and transience.
+
+GOLDEN PEACOCK
+An expression of beauty and symbolism.
+
+STARRY NIGHT
+A meditation on infinity.
+
+ROYAL WAVE
+A study of motion and balance.
+
+Only after the emotional introduction may the user access:
+
+technical specifications,
+movement,
+materials,
+dimensions,
+availability,
+and inquiry.
+
+Specifications are secondary.
+
+--------------------------------------------------
+15 — RARITY
+--------------------------------------------------
+
+Create a quiet editorial section.
+
+Headline:
+
+CRAFTED IN SMALL QUANTITIES.
+
+Use minimal information.
+
+80 pieces.
+
+Hundreds of hours.
+
+Hand finished.
+
+Do not over-explain.
+
+Rarity should be felt.
+
+Never use aggressive scarcity marketing.
+
+Avoid:
+
+"Only 3 left."
+
+"Buy now."
+
+"Limited offer."
+
+"Act fast."
+
+Rarity is cultural,
+not commercial.
+
+--------------------------------------------------
+16 — BESPOKE ATELIER
+--------------------------------------------------
+
+Make Bespoke Atelier one of the most emotionally important chapters of the website.
+
+It should feel like entering the deepest room of the House.
+
+Narrative:
+
+One Collector.
+
+One Artisan.
+
+One Creation.
+
+Headline:
+
+CREATED FOR ONE.
+
+Subheadline:
+
+Private commissions.
+
+Show:
+
+sketches,
+material samples,
+movement components,
+engraving,
+enamel,
+guilloché,
+miniature painting,
+hands,
+conversation,
+and the evolution of one creation.
+
+The experience should communicate:
+
+The collector is not choosing from a catalogue.
+
+The collector is entering a creative relationship with the House.
+
+The bespoke journey should feel intimate,
+slow,
+intellectual,
+and deeply personal.
+
+CTA:
+
+BEGIN A PRIVATE CONVERSATION
+
+Not:
+
+BUY NOW.
+
+REQUEST A QUOTE.
+
+SHOP BESPOKE.
+
+--------------------------------------------------
+17 — COLLECTOR EXPERIENCE
+--------------------------------------------------
+
+The collector should feel like a guest.
+
+Not a customer.
+
+Introduce:
+
+Private Presentation.
+
+Private Salon.
+
+By Appointment.
+
+Collector Correspondence.
+
+Bespoke Consultation.
+
+Lifetime Care.
+
+The emotional journey:
+
+DISCOVER
+→ ENTER
+→ OBSERVE
+→ UNDERSTAND
+→ TRUST
+→ CONVERSE
+→ COMMISSION
+→ COLLECT
+→ BELONG
+→ PRESERVE
+
+--------------------------------------------------
+18 — BOUTIQUE EXPERIENCE
+--------------------------------------------------
+
+Create a dedicated Boutique section.
+
+Headline:
+
+PRIVATE PRESENTATION.
+
+Supporting line:
+
+By appointment.
+
+The boutique should communicate:
+
+privacy,
+hospitality,
+expertise,
+and trust.
+
+Use architectural photography.
+
+Show:
+
+one table,
+three chairs,
+soft daylight,
+natural wood,
+stone,
+books,
+quiet conversation.
+
+Do not make the section feel like retail.
+
+CTA:
+
+FIND A BOUTIQUE
+
+Secondary CTA:
+
+REQUEST A PRIVATE APPOINTMENT
+
+--------------------------------------------------
+19 — SERVICE
+--------------------------------------------------
+
+Present service as lifetime stewardship.
+
+Headline:
+
+LIFETIME CARE.
+
+Supporting copy:
+
+Preservation through time.
+
+Show:
+
+hands,
+tools,
+movement,
+restoration,
+atelier,
+archive.
+
+The emotional message:
+
+A creation does not leave the House when it enters a collection.
+
+The relationship continues.
+
+--------------------------------------------------
+20 — JOURNAL
+--------------------------------------------------
+
+The Journal is the intellectual dimension of MILLIN.
+
+It should cover:
+
+Horological Art.
+
+Craft.
+
+Culture.
+
+History.
+
+Materials.
+
+Artists.
+
+Collectors.
+
+Architecture.
+
+Design.
+
+Technology.
+
+The Journal should feel like an editorial publication.
+
+Not a corporate blog.
+
+Use:
+
+large typography,
+full-bleed photography,
+long-form essays,
+archival imagery,
+sketches,
+and editorial layouts.
+
+--------------------------------------------------
+21 — FINAL EXPERIENCE
+--------------------------------------------------
+
+End the homepage quietly.
+
+Dark background.
+
+The movement disappears into darkness.
+
+Final statement:
+
+MILLIN
+
+TIME, CRAFTED.
+
+No aggressive CTA.
+
+No banners.
+
+No promotional language.
+
+The visitor should leave with the feeling:
+
+"I have not visited a website.
+
+I have entered a House."
+
+--------------------------------------------------
+22 — TYPOGRAPHY
+--------------------------------------------------
+
+Primary House identity:
+
+CANELA DISPLAY
+
+Use for:
+
+HOUSE OF MILLIN
+major statements
+hero headlines
+editorial titles
+House Bible
+cinematic titles
+
+Editorial / UI:
+
+NEUE HAAS GROTESK
+
+Use for:
+
+navigation
+interface
+metadata
+buttons
+labels
+digital systems
+
+Body:
+
+TIEMPOS TEXT
+
+Use for:
+
+long-form editorial content
+Journal
+Bespoke storytelling
+philosophical texts
+
+House Seal:
+
+TRAJAN PRO
+
+Use only for:
+
+certificates
+formal documents
+archival elements
+
+Typography must feel:
+
+quiet,
+editorial,
+intellectual,
+timeless.
+
+Avoid:
+
+oversized aggressive typography,
+excessive bold,
+tech typography,
+fashion typography,
+decorative scripts.
+
+--------------------------------------------------
+23 — COLOUR
+--------------------------------------------------
+
+Primary palette:
+
+Deep Charcoal
+Warm Ivory
+Natural Stone
+Warm Grey
+Walnut
+Oak
+Muted Bronze
+Soft Brass
+Graphite
+
+Gold is an accent.
+
+Never a dominant UI colour.
+
+Avoid:
+
+bright white,
+pure black as the only colour,
+neon,
+saturated gradients,
+purple luxury clichés,
+blue technology aesthetics.
+
+The interface should feel like:
+
+paper,
+stone,
+wood,
+shadow,
+and museum light.
+
+--------------------------------------------------
+24 — UI DESIGN
+--------------------------------------------------
+
+UI must disappear into the experience.
+
+Use:
+
+thin lines,
+subtle borders,
+large margins,
+quiet buttons,
+editorial navigation,
+slow hover states.
+
+Avoid:
+
+cards everywhere,
+rounded SaaS-style components,
+excessive shadows,
+glassmorphism,
+gradient buttons,
+large conversion banners,
+sticky sales bars.
+
+Buttons should feel like invitations.
+
+Examples:
+
+ENTER THE HOUSE
+EXPLORE THE ATELIER
+DISCOVER THE CREATION
+BEGIN A PRIVATE CONVERSATION
+FIND A BOUTIQUE
+REQUEST A PRIVATE APPOINTMENT
+
+--------------------------------------------------
+25 — MOTION
+--------------------------------------------------
+
+Motion should reveal.
+
+Never entertain.
+
+Use:
+
+slow fades,
+gentle image reveals,
+subtle parallax,
+slow camera movement,
+soft transitions,
+architectural wipes,
+light-based transitions.
+
+Avoid:
+
+fast animations,
+bouncy UI,
+aggressive parallax,
+whip transitions,
+commercial carousel movement.
+
+The rhythm is slow.
+
+The visitor should never feel rushed.
+
+--------------------------------------------------
+26 — RESPONSIVE EXPERIENCE
+--------------------------------------------------
+
+The Digital Maison must work beautifully across:
+
+Desktop
+Tablet
+Mobile
+
+Mobile is not a reduced desktop.
+
+It is an intimate version of the House.
+
+Preserve:
+
+negative space,
+typography,
+cinematic images,
+slow pacing,
+and editorial hierarchy.
+
+Do not compress everything into cards.
+
+--------------------------------------------------
+27 — DESIGN SYSTEM
+--------------------------------------------------
+
+Create a reusable Design System in Figma.
+
+Include:
+
+Typography Tokens
+
+Colour Tokens
+
+Spacing Tokens
+
+Grid
+
+Container System
+
+Buttons
+
+Navigation
+
+Editorial Blocks
+
+Hero Sections
+
+Image Modules
+
+Video Modules
+
+Craft Modules
+
+Collection Modules
+
+Bespoke Modules
+
+Journal Modules
+
+Boutique Modules
+
+Forms
+
+Footer
+
+All components must be reusable.
+
+Use Auto Layout.
+
+Use Variables.
+
+Use semantic naming.
+
+Create desktop and mobile variants.
+
+--------------------------------------------------
+28 — IMAGE GENERATION
+--------------------------------------------------
+
+All AI-generated imagery must follow the House visual language.
+
+Images must feel like:
+
+editorial photography,
+museum documentation,
+architectural photography,
+fine art photography,
+or cinematic documentary photography.
+
+Never stock photography.
+
+Never generic luxury interiors.
+
+Never generic watch advertising.
+
+Never fake CGI luxury.
+
+Use realistic optical behaviour.
+
+Natural depth of field.
+
+Authentic reflections.
+
+Natural imperfections.
+
+Human gestures.
+
+Real materials.
+
+Subtle filmic texture.
+
+The images should appear to come from one photographer,
+one camera,
+one visual archive.
+
+--------------------------------------------------
+29 — AI VISUAL MEMORY
+--------------------------------------------------
+
+All AI-generated imagery must pass the:
+
+ONE HOUSE
+ONE CAMERA
+ONE VISUAL MEMORY
+
+test.
+
+Even if different AI tools are used,
+the output must feel like one continuous archive.
+
+NanoBanana Pro,
+Kling,
+Veo,
+GPT Image,
+and future tools
+
+must all follow the same visual DNA.
+
+--------------------------------------------------
+30 — NEGATIVE PROMPT
+--------------------------------------------------
+
+Avoid:
+
+stock photography
+generic luxury
+fashion advertising
+commercial watch advertising
+CGI
+plastic materials
+over-retouching
+perfect symmetry
+excessive gold
+bright retail lighting
+floating watches
+isolated product renders
+aggressive gradients
+neon
+technology aesthetics
+corporate offices
+generic showrooms
+overly polished interiors
+artificial reflections
+excessive HDR
+oversaturated colours
+fake cinematic effects
+commercial urgency
+
+--------------------------------------------------
+31 — FINAL CREATIVE TEST
+--------------------------------------------------
+
+Before approving any screen, ask:
+
+Does the House come before the product?
+
+Does Space come before Creation?
+
+Does Craft come before Commerce?
+
+Does Human Presence create emotional credibility?
+
+Does the visual feel timeless?
+
+Does it feel inhabited?
+
+Does it feel culturally meaningful?
+
+Is there enough silence?
+
+Is there enough negative space?
+
+Would this belong in the House Bible?
+
+Would a collector want to spend time here?
+
+Would the experience still feel relevant in twenty years?
+
+If not,
+redesign.
+
+--------------------------------------------------
+32 — FINAL OUTPUT
+--------------------------------------------------
+
+Do not simply redesign the existing website.
+
+Reimagine it as a complete Digital Maison Experience.
+
+Create:
+
+1. Homepage
+2. Collections
+3. Individual Creation Pages
+4. Métiers d'Art
+5. Bespoke Atelier
+6. The Atelier
+7. The House
+8. Boutique
+9. Private Appointment
+10. Service & Lifetime Care
+11. Journal
+12. About / Philosophy
+13. Collector Experience
+14. Contact / Correspondence
+
+Build the experience as one coherent digital House.
+
+The website should feel:
+
+quiet,
+rare,
+cultural,
+human,
+architectural,
+cinematic,
+and deeply crafted.
+
+The visitor should not feel that they are browsing products.
+
+They should feel that they are being invited into a world.
+
+HOUSE OF MILLIN
+
+A House of Horological Art.
+
+Time, crafted.

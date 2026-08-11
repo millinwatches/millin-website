@@ -1,0 +1,1407 @@
+Цель:
+
+Не менять основную идею.
+Сделать так, чтобы реализация наконец соответствовала Конституции House of MILLIN.
+
+Ниже — готовый промт, который я рекомендую вставить в текущую новую версию Figma Make после PASS 02.
+
+PASS 02.1 — DIGITAL MAISON REFINEMENT
+THE HOUSE / CINEMATIC HOMEPAGE REFINEMENT
+HOUSE OF MILLIN
+DIGITAL MAISON EXPERIENCE
+
+PASS 02.1 — DIGITAL MAISON REFINEMENT
+
+THE HOUSE
+CINEMATIC HOMEPAGE REFINEMENT
+
+This is a refinement pass of the existing PASS 02 homepage.
+
+DO NOT rebuild the homepage from scratch.
+
+DO NOT discard the existing architecture.
+
+DO NOT create a new visual concept.
+
+DO NOT introduce a new brand direction.
+
+Preserve the strongest existing work from PASS 01 and PASS 02.
+
+The objective of PASS 02.1 is to elevate the existing experience from:
+
+"LUXURY DIGITAL HOUSE PROTOTYPE"
+
+to:
+
+"AUTHENTIC HOUSE OF MILLIN
+DIGITAL MAISON EXPERIENCE"
+
+The current narrative foundation is correct.
+
+The following sequence must remain:
+
+PROLOGUE
+→
+THE HOUSE
+→
+PHILOSOPHY
+→
+ARCHITECTURE
+→
+ATELIER
+→
+MÉTIERS D'ART
+→
+HUMAN PRESENCE
+→
+CREATION
+→
+RARITY
+→
+BESPOKE
+→
+COLLECTOR
+→
+BOUTIQUE
+→
+LIFETIME CARE
+→
+JOURNAL
+→
+EPILOGUE
+
+However, refine the experience according to the following principles.
+
+--------------------------------------------------
+01 — PRIMARY CONSTITUTION
+--------------------------------------------------
+
+The homepage must communicate:
+
+SPACE
+before
+CRAFT
+
+CRAFT
+before
+HUMAN
+
+HUMAN
+before
+CREATION
+
+CREATION
+before
+COLLECTOR
+
+COLLECTOR
+before
+LEGACY
+
+The fundamental hierarchy is:
+
+HERO SPACE
+→
+HERO CRAFT
+→
+HERO HUMAN
+→
+HERO CREATION
+→
+HERO COLLECTOR
+→
+HERO LEGACY
+
+The creation must feel earned.
+
+The watch must not appear too early.
+
+The product must never feel like the reason the website exists.
+
+The House exists first.
+
+The Craft explains why.
+
+The Human gives meaning.
+
+The Creation becomes the culmination.
+
+The Collector completes the relationship.
+
+The Legacy gives the House permanence.
+
+--------------------------------------------------
+02 — REFINEMENT PRINCIPLE
+--------------------------------------------------
+
+Preserve the current structure.
+
+Refine:
+
+1. Cinematic rhythm
+2. Visual authenticity
+3. Image hierarchy
+4. Prologue
+5. Creation storytelling
+6. Bespoke emotional importance
+7. Collector journey
+8. Navigation
+9. Component architecture
+10. Production readiness
+
+Do not add more sections simply to make the website longer.
+
+The goal is not more content.
+
+The goal is more depth.
+
+--------------------------------------------------
+03 — PROLOGUE REFINEMENT
+--------------------------------------------------
+
+Replace the current slideshow-like opening with a true cinematic prologue.
+
+The Prologue must feel like an opening film sequence.
+
+Do not begin with complete watches.
+
+Do not begin with product photography.
+
+Do not begin with a collection.
+
+Begin with fragments.
+
+Visual sequence:
+
+BLACK
+
+↓
+
+A distant glow of fire
+
+↓
+
+Macro of enamel powder
+
+↓
+
+A hand preparing a surface
+
+↓
+
+A burin touching metal
+
+↓
+
+A single engraving stroke
+
+↓
+
+A brush touching pigment
+
+↓
+
+Light moving across guilloché
+
+↓
+
+A mechanical balance moving
+
+↓
+
+A quiet atelier
+
+↓
+
+BLACK
+
+↓
+
+HOUSE OF MILLIN
+
+The sequence should feel like:
+
+something is being created.
+
+something requires patience.
+
+something is being preserved.
+
+Recommended duration:
+
+15–25 seconds.
+
+Use:
+
+slow crossfade
+micro movement
+subtle camera movement
+very shallow depth of field
+natural light
+dark transitions
+
+Avoid:
+
+fast montage
+commercial advertising cuts
+dramatic zoom
+excessive cinematic effects
+CGI-looking luxury visuals
+
+The Prologue should feel documentary.
+
+The visitor should not yet know exactly what they are looking at.
+
+Curiosity comes before explanation.
+
+--------------------------------------------------
+04 — VISUAL AUTHENTICITY
+--------------------------------------------------
+
+The current image system contains generic or stock-like visual references.
+
+Replace generic stock photography wherever possible.
+
+Do not use recognizable commercial stock imagery.
+
+Do not use generic luxury interiors.
+
+Do not use generic watchmaker imagery.
+
+Do not use generic luxury lifestyle imagery.
+
+Build a coherent MILLIN visual world.
+
+The visual archive should feel as though:
+
+one House
+one Atelier
+one architectural environment
+one photographer
+one visual language
+
+created the entire archive.
+
+Create image categories:
+
+01_ARCHITECTURE
+
+02_ENTRANCE_HALL
+
+03_PRIVATE_SALON
+
+04_ATELIER
+
+05_LIBRARY
+
+06_HANDS
+
+07_ARTISANS
+
+08_GRAND_FEU_ENAMEL
+
+09_HAND_ENGRAVING
+
+10_GUILLOCHE
+
+11_MINIATURE_PAINTING
+
+12_MATERIALS
+
+13_CREATIONS
+
+14_BESPOKE
+
+15_COLLECTORS
+
+16_BOUTIQUE
+
+17_BOOKS_ARCHIVE
+
+18_LEGACY
+
+All images must share:
+
+consistent light
+consistent colour
+consistent lens language
+consistent depth of field
+consistent material palette
+
+The result should feel like one photographic archive.
+
+--------------------------------------------------
+05 — HOUSE AS ARCHITECTURE
+--------------------------------------------------
+
+Strengthen the architectural narrative.
+
+The House should not feel like a collection of random luxury interiors.
+
+Create the feeling of one connected building.
+
+The visitor should mentally move through:
+
+ENTRANCE HALL
+
+↓
+
+PRIVATE SALON
+
+↓
+
+LIBRARY
+
+↓
+
+ATELIER
+
+↓
+
+COLLECTOR SALON
+
+The visual transitions should suggest spatial continuity.
+
+Use recurring architectural elements:
+
+oak
+stone
+warm plaster
+bronze
+linen
+leather
+books
+wood
+natural daylight
+
+Repeat subtle architectural details across sections.
+
+The House should feel physically coherent.
+
+--------------------------------------------------
+06 — NAVIGATION REFINEMENT
+--------------------------------------------------
+
+Transform navigation from "website navigation"
+into "House navigation."
+
+Primary:
+
+THE HOUSE
+ATELIER
+CREATIONS
+BESPOKE
+COLLECTORS
+JOURNAL
+
+Secondary:
+
+BOUTIQUES
+SERVICE
+CORRESPONDENCE
+
+THE HOUSE should contain:
+
+Entrance Hall
+Private Salon
+Library
+
+ATELIER should contain:
+
+Métiers d'Art
+Grand Feu Enamel
+Hand Engraving
+Guilloché
+Miniature Painting
+
+CREATIONS should contain:
+
+Collections
+Creation Stories
+
+COLLECTORS should contain:
+
+Private Salon
+Private Presentation
+Lifetime Care
+
+The navigation should feel architectural.
+
+The visitor should feel that they are choosing a room.
+
+--------------------------------------------------
+07 — HERO SPACE REFINEMENT
+--------------------------------------------------
+
+Strengthen the first hero.
+
+The first screen must communicate:
+
+HOUSE OF MILLIN
+
+A House of Horological Art.
+
+The architecture must remain the primary visual subject.
+
+Do not show a complete watch as the hero.
+
+Do not use product imagery in the first viewport.
+
+Use:
+
+Private Salon
+Atelier
+Library
+Entrance Hall
+
+The visual should feel:
+
+quiet
+warm
+cultured
+private
+
+Primary CTA:
+
+ENTER THE HOUSE
+
+Secondary:
+
+DISCOVER THE ATELIER
+
+The first impression should be:
+
+"I have arrived somewhere."
+
+Not:
+
+"I am browsing watches."
+
+--------------------------------------------------
+08 — PHILOSOPHY REFINEMENT
+--------------------------------------------------
+
+Preserve:
+
+IN AN AGE DEFINED BY SPEED,
+WE CHOOSE PATIENCE.
+
+Give this statement more negative space.
+
+Allow the visitor to pause.
+
+No secondary copy immediately.
+
+No CTA.
+
+No decorative graphics.
+
+This should be the first moment of silence.
+
+--------------------------------------------------
+09 — ATELIER REFINEMENT
+--------------------------------------------------
+
+The Atelier must become the emotional centre of the House.
+
+Show:
+
+hands
+tools
+materials
+fire
+metal
+paper
+brushes
+movement components
+
+The artisan should be observed rather than posed.
+
+Use documentary composition.
+
+Show:
+
+concentration
+patience
+precision
+silence
+
+Headline:
+
+INSIDE THE ATELIER
+
+Supporting:
+
+Where patience becomes craft.
+
+CTA:
+
+ENTER THE ATELIER
+
+This section should visually prepare the visitor for Métiers d'Art.
+
+--------------------------------------------------
+10 — MÉTIERS D'ART REFINEMENT
+--------------------------------------------------
+
+Preserve four core crafts:
+
+GRAND FEU ENAMEL
+
+HAND ENGRAVING
+
+GUILLOCHÉ
+
+MINIATURE PAINTING
+
+Each craft should have:
+
+1. Material
+
+2. Human hand
+
+3. Tool
+
+4. Process
+
+5. Result
+
+The storytelling sequence must be:
+
+MATERIAL
+→
+HAND
+→
+PROCESS
+→
+TRANSFORMATION
+→
+ART
+
+Do not begin with the finished watch.
+
+Begin with the material.
+
+The visitor should understand:
+
+This is why MILLIN exists.
+
+--------------------------------------------------
+11 — HUMAN PRESENCE REFINEMENT
+--------------------------------------------------
+
+Preserve:
+
+HANDS THAT CREATE
+
+HANDS THAT PRESERVE
+
+HANDS THAT WELCOME
+
+HANDS THAT CONTEMPLATE
+
+However, make this section more human.
+
+Avoid a grid of four generic images.
+
+Instead create one continuous human story.
+
+Suggested sequence:
+
+HAND OPENS SKETCHBOOK
+
+↓
+
+HAND TOUCHES MATERIAL
+
+↓
+
+BURIN MEETS METAL
+
+↓
+
+BRUSH MEETS ENAMEL
+
+↓
+
+ARTISAN OBSERVES
+
+↓
+
+COLLECTOR OBSERVES CREATION
+
+The sequence connects:
+
+MAKER
+→
+CREATION
+→
+COLLECTOR
+
+This is critical.
+
+--------------------------------------------------
+12 — CREATION TRANSITION
+--------------------------------------------------
+
+The transition from craft to creation must be gradual.
+
+Do not suddenly introduce a product grid.
+
+The first creation must emerge from:
+
+the atelier
+or
+the artisan's hands
+or
+the craft process.
+
+The visitor should feel:
+
+Now I understand where this came from.
+
+Only then:
+
+YELLOW TIGER
+
+--------------------------------------------------
+13 — YELLOW TIGER AS HERO CREATION
+--------------------------------------------------
+
+Preserve Yellow Tiger as the first Hero Creation.
+
+Present it as:
+
+a portrait
+
+not
+
+a product.
+
+Headline:
+
+YELLOW TIGER
+
+Subheadline:
+
+A study of strength and stillness.
+
+The visual sequence should be:
+
+FULL CREATION
+
+↓
+
+DIAL
+
+↓
+
+ENAMEL
+
+↓
+
+ENGRAVING
+
+↓
+
+PAINTING
+
+↓
+
+MATERIAL
+
+↓
+
+MOVEMENT
+
+Only after the emotional story:
+
+DISCOVER THE CREATION
+
+Do not show technical specifications immediately.
+
+Do not show price.
+
+Do not show purchase language.
+
+--------------------------------------------------
+14 — REMOVE PRODUCT CATALOGUE FEEL
+--------------------------------------------------
+
+This is a critical correction.
+
+Do not place five creations immediately into a traditional product grid.
+
+The homepage should not become:
+
+Watch 01
+Watch 02
+Watch 03
+Watch 04
+Watch 05
+
+Instead introduce:
+
+THE CREATIONS
+
+as an editorial archive.
+
+Use:
+
+large visual chapters
+asymmetric compositions
+full-width imagery
+horizontal storytelling
+vertical transitions
+
+Each creation receives:
+
+name
+concept
+one sentence
+one visual world
+
+The full collection can be accessed through:
+
+EXPLORE THE CREATIONS
+
+The homepage should show enough to create desire.
+
+Not enough to feel like a catalogue.
+
+--------------------------------------------------
+15 — CREATION ARCHIVE
+--------------------------------------------------
+
+Use the following editorial language:
+
+YELLOW TIGER
+
+A study of strength and stillness.
+
+GRACEFUL CRANE
+
+A reflection on time and transience.
+
+GOLDEN PEACOCK
+
+An expression of beauty and symbolism.
+
+STARRY NIGHT
+
+A meditation on infinity.
+
+ROYAL WAVE
+
+A study of motion and balance.
+
+Present these as:
+
+works of horological art.
+
+Not products.
+
+--------------------------------------------------
+16 — RARITY REFINEMENT
+--------------------------------------------------
+
+Preserve:
+
+CRAFTED IN SMALL QUANTITIES.
+
+Use:
+
+80 pieces.
+
+Hundreds of hours.
+
+Hand finished.
+
+Do not use scarcity marketing.
+
+Do not use:
+
+Only X remaining.
+
+Limited offer.
+
+Act now.
+
+Available now.
+
+Rarity must feel cultural.
+
+Not commercial.
+
+--------------------------------------------------
+17 — BESPOKE REFINEMENT
+--------------------------------------------------
+
+Increase the emotional importance of Bespoke.
+
+Bespoke must feel like one of the most important chapters of the House.
+
+Use:
+
+ONE COLLECTOR.
+
+ONE ARTISAN.
+
+ONE CREATION.
+
+Headline:
+
+CREATED FOR ONE.
+
+Subheadline:
+
+Private commissions.
+
+The visual story:
+
+COLLECTOR
+
+↓
+
+CONVERSATION
+
+↓
+
+SKETCH
+
+↓
+
+MATERIAL
+
+↓
+
+CRAFT
+
+↓
+
+MOVEMENT
+
+↓
+
+CREATION
+
+↓
+
+COLLECTOR
+
+The final image should connect the creation back to the collector.
+
+Primary CTA:
+
+BEGIN A PRIVATE CONVERSATION
+
+This should feel like an invitation.
+
+Not an inquiry form.
+
+--------------------------------------------------
+18 — COLLECTOR JOURNEY REFINEMENT
+--------------------------------------------------
+
+Strengthen the transition:
+
+VISITOR
+→
+GUEST
+→
+OBSERVER
+→
+PARTICIPANT
+→
+COLLECTOR
+→
+CUSTODIAN
+
+The homepage should gradually move the visitor through these emotional states.
+
+The Collector section should not feel like a membership advertisement.
+
+Do not use:
+
+Join now.
+
+Become a member.
+
+Exclusive access.
+
+VIP.
+
+Instead:
+
+FOR A HANDFUL OF COLLECTORS.
+
+Supporting:
+
+Some creations are not made for many.
+
+They are made for those who understand.
+
+CTA:
+
+ENTER THE COLLECTOR EXPERIENCE
+
+--------------------------------------------------
+19 — PRIVATE SALON
+--------------------------------------------------
+
+Create a quiet visual transition.
+
+Show:
+
+one table
+three chairs
+natural daylight
+stone
+wood
+books
+quiet hospitality
+
+No product display walls.
+
+No retail counters.
+
+No obvious sales environment.
+
+Headline:
+
+PRIVATE PRESENTATION.
+
+Supporting:
+
+By appointment.
+
+CTA:
+
+REQUEST A PRIVATE APPOINTMENT
+
+The visitor should feel:
+
+I am being invited into a private room.
+
+--------------------------------------------------
+20 — LIFETIME CARE
+--------------------------------------------------
+
+Reframe Service as stewardship.
+
+Do not present it as customer support.
+
+Headline:
+
+LIFETIME CARE.
+
+Supporting:
+
+Preservation through time.
+
+The visual story:
+
+creation
+→
+collection
+→
+time
+→
+care
+→
+preservation
+
+This is part of the House's relationship with the collector.
+
+--------------------------------------------------
+21 — JOURNAL REFINEMENT
+--------------------------------------------------
+
+The Journal should feel like the intellectual room of the House.
+
+Show:
+
+books
+sketches
+archives
+calligraphy
+painting
+architecture
+craft
+
+Do not create a standard blog grid.
+
+Use:
+
+one large feature
+two supporting stories
+
+Editorial titles.
+
+Minimal metadata.
+
+The Journal should communicate:
+
+MILLIN is culture.
+
+Not merely watchmaking.
+
+--------------------------------------------------
+22 — EPILOGUE
+--------------------------------------------------
+
+Return to darkness.
+
+Reduce visual density.
+
+Slow the experience.
+
+Final:
+
+MILLIN
+
+TIME, CRAFTED.
+
+No banner.
+
+No newsletter popup.
+
+No sales CTA.
+
+The final feeling should be:
+
+I did not visit a website.
+
+I entered a House.
+
+--------------------------------------------------
+23 — CINEMATIC RHYTHM
+--------------------------------------------------
+
+The entire homepage must follow:
+
+REVEAL
+
+↓
+
+PAUSE
+
+↓
+
+DISCOVER
+
+↓
+
+PAUSE
+
+↓
+
+REVEAL
+
+Avoid constant motion.
+
+Alternate:
+
+VIDEO
+
+↓
+
+STILL IMAGE
+
+↓
+
+TEXT
+
+↓
+
+SILENCE
+
+↓
+
+VIDEO
+
+↓
+
+STILL IMAGE
+
+The visitor must have time to breathe.
+
+--------------------------------------------------
+24 — VISUAL HIERARCHY
+--------------------------------------------------
+
+Maintain:
+
+SPACE
+→
+LIGHT
+→
+MATERIAL
+→
+HUMAN
+→
+CRAFT
+→
+CREATION
+→
+DETAIL
+→
+SPECIFICATION
+
+Never reverse this hierarchy.
+
+--------------------------------------------------
+25 — COMPONENT REFACTORING
+--------------------------------------------------
+
+Do not leave the entire experience as one monolithic App component.
+
+Begin reorganizing the homepage into reusable conceptual components.
+
+Create:
+
+HousePrologue
+HouseHero
+HousePhilosophy
+HouseArchitecture
+AtelierIntroduction
+CraftChapters
+HumanPresence
+HeroCreation
+CreationArchive
+RarityStatement
+BespokeIntroduction
+CollectorExperience
+PrivatePresentation
+LifetimeCare
+JournalIntroduction
+HouseEpilogue
+
+Use semantic naming.
+
+The code architecture should reflect the narrative architecture.
+
+Do not over-engineer.
+
+The objective is future maintainability.
+
+--------------------------------------------------
+26 — DESIGN SYSTEM REFINEMENT
+--------------------------------------------------
+
+Ensure the following are reusable tokens:
+
+Typography
+Colour
+Spacing
+Motion
+Grid
+Image ratios
+Section heights
+Border styles
+Navigation states
+Button states
+
+Do not duplicate styles unnecessarily.
+
+Use consistent component naming.
+
+--------------------------------------------------
+27 — RESPONSIVE REFINEMENT
+--------------------------------------------------
+
+Desktop:
+
+cinematic and architectural.
+
+Tablet:
+
+editorial and spacious.
+
+Mobile:
+
+intimate and vertical.
+
+Do not simply stack desktop sections.
+
+Recompose the narrative.
+
+On mobile:
+
+prioritize
+
+Space
+→
+Human
+→
+Craft
+→
+Creation
+
+Avoid excessive horizontal scrolling unless it genuinely improves storytelling.
+
+--------------------------------------------------
+28 — AI VISUAL PRODUCTION READINESS
+--------------------------------------------------
+
+Prepare the visual system for:
+
+NanoBanana Pro
+Kling 3.0
+Veo
+
+Every future image must belong to one coherent visual world.
+
+Define image placeholders using semantic names.
+
+Examples:
+
+MILLIN_ATELIER_HAND_001
+
+MILLIN_PRIVATE_SALON_001
+
+MILLIN_ENAMEL_FIRE_001
+
+MILLIN_ENGRAVING_BURIN_001
+
+MILLIN_BESPOKE_SKETCH_001
+
+MILLIN_COLLECTOR_PRESENTATION_001
+
+MILLIN_YELLOW_TIGER_PORTRAIT_001
+
+Do not use generic filenames.
+
+The visual system should allow the placeholder assets to be replaced without redesigning the layout.
+
+--------------------------------------------------
+29 — FINAL PASS 02.1 QUALITY TEST
+--------------------------------------------------
+
+Test the homepage against these questions.
+
+1.
+
+If all watches are removed,
+does the House still feel complete?
+
+2.
+
+Does the visitor understand the House before the product?
+
+3.
+
+Does the Atelier feel real?
+
+4.
+
+Does the craft feel human?
+
+5.
+
+Does the creation feel earned?
+
+6.
+
+Does Bespoke feel emotionally significant?
+
+7.
+
+Does the Collector feel invited rather than marketed to?
+
+8.
+
+Does the Boutique feel like a private salon?
+
+9.
+
+Does Service feel like stewardship?
+
+10.
+
+Does the Journal make MILLIN feel cultural?
+
+11.
+
+Does the homepage feel like one continuous film?
+
+12.
+
+Does the navigation feel like movement through a House?
+
+13.
+
+Does the visual world feel original to MILLIN?
+
+14.
+
+Could the same visual language extend into:
+
+House Bible
+Instagram
+Films
+Bespoke presentations
+Collector Residence
+Boutiques
+Academy
+
+If the answer to any question is NO:
+
+refine the experience.
+
+--------------------------------------------------
+30 — FINAL OUTPUT
+--------------------------------------------------
+
+Do not create a new homepage.
+
+Refine the existing PASS 02 homepage.
+
+Preserve all successful work.
+
+Improve:
+
+PROLOGUE
+VISUAL AUTHENTICITY
+HOUSE ARCHITECTURE
+ATELIER
+CRAFT
+HUMAN PRESENCE
+CREATION STORYTELLING
+BESPOKE
+COLLECTOR JOURNEY
+PRIVATE SALON
+JOURNAL
+EPILOGUE
+
+Refactor the structure where necessary.
+
+The final result must feel:
+
+less like a luxury website.
+
+more like a real House.
+
+less like a product catalogue.
+
+more like a cultural institution.
+
+less like marketing.
+
+more like invitation.
+
+less like a collection.
+
+more like a world.
+
+The visitor should leave thinking:
+
+"I did not browse MILLIN.
+
+I entered it."
+
+HOUSE OF MILLIN
+
+A HOUSE OF HOROLOGICAL ART.
+
+TIME, CRAFTED.

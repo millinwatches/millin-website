@@ -1,0 +1,1276 @@
+HOUSE OF MILLIN
+DIGITAL MAISON EXPERIENCE
+
+PASS 01 — DIGITAL MAISON FOUNDATION
+
+Create the foundational digital design system for House of MILLIN.
+
+IMPORTANT:
+
+Do not design the complete website yet.
+
+Do not create the full homepage.
+
+Do not build collection pages.
+
+Do not create product grids.
+
+Do not begin with watch photography.
+
+This phase is exclusively about creating the foundational design language, visual system, interaction principles, and reusable component architecture for the future Digital Maison Experience.
+
+The foundation must be strong enough to support:
+
+House of MILLIN website
+Digital Maison Experience
+Bespoke Atelier
+Collector Experience
+Private Salon
+Boutique Experience
+Journal
+House Bible
+Editorial publications
+Collector presentations
+Social media
+Films
+AI-generated imagery
+NanoBanana Pro
+Kling
+Veo
+Claude Code
+Future digital products
+
+Everything created in this phase must become the source of truth for the entire MILLIN digital ecosystem.
+
+--------------------------------------------------
+01 — CORE CREATIVE PRINCIPLE
+--------------------------------------------------
+
+The digital experience must not feel like a website.
+
+It must feel like a House.
+
+The interface is architecture.
+
+Navigation is movement through the House.
+
+Typography is the voice of the House.
+
+Photography is memory.
+
+Video is atmosphere.
+
+Whitespace is silence.
+
+Craftsmanship is evidence.
+
+Human presence is emotion.
+
+The creation is the culmination.
+
+The fundamental hierarchy is:
+
+HERO SPACE
+→ HERO CRAFT
+→ HERO HUMAN
+→ HERO CREATION
+→ HERO COLLECTOR
+→ HERO LEGACY
+
+Never reverse this hierarchy.
+
+The product must never become the starting point of the experience.
+
+--------------------------------------------------
+02 — DIGITAL MAISON DESIGN LANGUAGE
+--------------------------------------------------
+
+The visual language must combine:
+
+European Maison
+Contemporary museum
+Private collector's residence
+Master atelier
+Editorial art book
+Architectural photography
+Horological culture
+
+The overall feeling:
+
+quiet
+rare
+intellectual
+human
+architectural
+cinematic
+timeless
+cultured
+precise
+
+Avoid:
+
+commercial luxury
+fashion advertising
+e-commerce aesthetics
+generic Swiss watch websites
+technology branding
+SaaS interfaces
+corporate design
+minimalism without emotion
+excessive decoration
+
+The result must feel like a living cultural institution.
+
+--------------------------------------------------
+03 — DESIGN SYSTEM STRUCTURE
+--------------------------------------------------
+
+Create a complete Figma Design System.
+
+Organize the system into the following pages:
+
+00 — DESIGN CONSTITUTION
+01 — FOUNDATIONS
+02 — TYPOGRAPHY
+03 — COLOUR
+04 — GRID & LAYOUT
+05 — SPACING
+06 — MOTION
+07 — ICONOGRAPHY
+08 — BUTTONS & CONTROLS
+09 — NAVIGATION
+10 — EDITORIAL COMPONENTS
+11 — IMAGE SYSTEM
+12 — VIDEO SYSTEM
+13 — CRAFT COMPONENTS
+14 — CREATION COMPONENTS
+15 — BESPOKE COMPONENTS
+16 — COLLECTOR COMPONENTS
+17 — BOUTIQUE COMPONENTS
+18 — JOURNAL COMPONENTS
+19 — FORMS
+20 — FOOTER
+21 — RESPONSIVE SYSTEM
+22 — PROTOTYPE FLOWS
+
+Use clear naming conventions.
+
+All components must be reusable.
+
+Use Auto Layout wherever appropriate.
+
+Use Variables for:
+
+colour
+spacing
+typography
+motion
+breakpoints
+component states
+
+Create components that can be reused across the entire House.
+
+--------------------------------------------------
+04 — TYPOGRAPHY SYSTEM
+--------------------------------------------------
+
+Primary House Identity:
+
+CANELA DISPLAY
+
+Use for:
+
+House name
+Hero headlines
+Major statements
+Editorial titles
+Film titles
+Bespoke Atelier
+House Bible
+Collector presentations
+
+Canela must feel:
+
+literary
+architectural
+timeless
+cultured
+
+Use generous letter spacing where appropriate.
+
+Do not overuse bold weights.
+
+Typography should breathe.
+
+--------------------------------------------------
+
+Editorial / Digital Interface:
+
+NEUE HAAS GROTESK
+
+Use for:
+
+navigation
+UI
+labels
+buttons
+metadata
+categories
+technical information
+interface controls
+
+Neue Haas Grotesk should provide clarity and modernity.
+
+--------------------------------------------------
+
+Long-form Editorial:
+
+TIEMPOS TEXT
+
+Use for:
+
+Journal
+long-form essays
+Bespoke storytelling
+philosophy
+craft descriptions
+House essays
+
+Tiempos should create the feeling of an art publication.
+
+--------------------------------------------------
+
+Formal / Archival:
+
+TRAJAN PRO
+
+Use only for:
+
+formal certificates
+House Seal
+archival documentation
+special invitations
+formal collector documents
+
+Never use Trajan as the primary website UI font.
+
+--------------------------------------------------
+
+Typography hierarchy:
+
+DISPLAY
+Canela Display
+
+EDITORIAL
+Canela Display + Tiempos Text
+
+INTERFACE
+Neue Haas Grotesk
+
+TECHNICAL
+Neue Haas Grotesk
+
+ARCHIVAL
+Trajan Pro
+
+--------------------------------------------------
+05 — TYPOGRAPHIC SCALE
+--------------------------------------------------
+
+Create a responsive type scale.
+
+Desktop:
+
+Display XL
+Display L
+Display M
+Display S
+
+Editorial:
+
+H1
+H2
+H3
+H4
+
+Body:
+
+Large
+Regular
+Small
+
+Interface:
+
+Navigation
+Label
+Caption
+Metadata
+Button
+
+Mobile must not simply scale everything down.
+
+Mobile typography should preserve:
+
+air
+silence
+hierarchy
+editorial character
+
+Use fluid typography where appropriate.
+
+Create typography tokens.
+
+--------------------------------------------------
+06 — COLOUR SYSTEM
+--------------------------------------------------
+
+Create a restrained material-based colour palette.
+
+PRIMARY:
+
+Deep Charcoal
+#161616
+
+Warm Ivory
+#F4F1EA
+
+Natural Stone
+#D8D1C5
+
+Warm Grey
+#8A847B
+
+Graphite
+#2A2A28
+
+SECONDARY:
+
+Walnut
+#5B4433
+
+Oak
+#8A6A4A
+
+Muted Bronze
+#6D6255
+
+Soft Brass
+#9A8968
+
+Accent:
+
+Muted Gold
+
+Gold must be used sparingly.
+
+Gold is not the brand's dominant UI colour.
+
+It is a material accent.
+
+The interface should feel like:
+
+stone
+paper
+wood
+shadow
+bronze
+aged metal
+
+Avoid:
+
+bright white
+pure black everywhere
+bright gold
+neon
+saturated colours
+purple luxury gradients
+blue technology aesthetics
+
+Create colour variables.
+
+Define:
+
+Background / Primary
+Background / Secondary
+Surface
+Text / Primary
+Text / Secondary
+Text / Muted
+Border
+Accent
+Hover
+Active
+Disabled
+
+--------------------------------------------------
+07 — THE MATERIAL PALETTE
+--------------------------------------------------
+
+Create a visual material library.
+
+Include:
+
+Natural Oak
+Dark Walnut
+Limestone
+Travertine
+Warm Plaster
+Natural Leather
+Linen
+Cotton Paper
+Brushed Bronze
+Aged Brass
+Brushed Steel
+Grand Feu Enamel
+Engraved Metal
+Guilloché
+Handmade Paper
+
+These materials should later influence:
+
+photography
+backgrounds
+cards
+editorial layouts
+image treatments
+motion transitions
+
+Do not use materials as decorative textures everywhere.
+
+Materials appear only when they support the story.
+
+--------------------------------------------------
+08 — GRID SYSTEM
+--------------------------------------------------
+
+Create a responsive editorial grid.
+
+Desktop:
+
+12 columns
+
+Large margins
+
+Generous gutters
+
+Maximum content width approximately 1440px.
+
+Use asymmetric layouts.
+
+Do not create a rigid corporate grid.
+
+The grid should support:
+
+full-bleed imagery
+editorial text
+split compositions
+overlapping images
+large negative space
+architectural framing
+
+Tablet:
+
+8 columns
+
+Mobile:
+
+4 columns
+
+The grid must support both:
+
+editorial storytelling
+functional interface
+
+--------------------------------------------------
+09 — SPACING SYSTEM
+--------------------------------------------------
+
+Create a spacing scale based on rhythm rather than density.
+
+Use generous spacing.
+
+The House should never feel crowded.
+
+Define:
+
+XS
+S
+M
+L
+XL
+XXL
+SECTION
+CINEMATIC
+
+Large sections should have significant vertical breathing room.
+
+Whitespace is an intentional design element.
+
+Never fill empty space merely because it exists.
+
+--------------------------------------------------
+10 — NEGATIVE SPACE SYSTEM
+--------------------------------------------------
+
+Negative space is a core luxury signal.
+
+Create layout rules that intentionally preserve empty space.
+
+Use negative space:
+
+around headlines
+around images
+between chapters
+inside navigation
+around product information
+inside editorial layouts
+
+The visitor should feel:
+
+calm
+unhurried
+invited
+
+Not:
+
+compressed
+overloaded
+rushed
+
+--------------------------------------------------
+11 — IMAGE SYSTEM
+--------------------------------------------------
+
+Create a unified image architecture.
+
+Image categories:
+
+ARCHITECTURE
+ATELIER
+PRIVATE SALON
+LIBRARY
+HUMAN PRESENCE
+HANDS
+CRAFT
+MATERIALS
+CREATIONS
+HOROLOGICAL DETAILS
+COLLECTORS
+BOUTIQUE
+ARCHIVE
+LEGACY
+
+Every image category must have a defined role.
+
+Photography must follow:
+
+The House of MILLIN Photography Constitution.
+
+Images should feel like they were created by:
+
+one photographer
+one visual archive
+one cultural institution
+
+Maintain consistency across:
+
+camera language
+light
+colour
+grain
+depth of field
+composition
+
+Avoid stock photography.
+
+Avoid generic AI luxury imagery.
+
+--------------------------------------------------
+12 — IMAGE RATIO SYSTEM
+--------------------------------------------------
+
+Create standard aspect ratio tokens.
+
+16:9
+Hero film
+Website cinematic sections
+YouTube
+
+4:5
+Editorial portrait
+Instagram
+Mobile storytelling
+
+3:2
+Architectural photography
+Editorial photography
+
+1:1
+Archive
+Social media
+Detail studies
+
+9:16
+Stories
+Reels
+Mobile vertical film
+
+Use the same visual language across every ratio.
+
+--------------------------------------------------
+13 — HERO IMAGE SYSTEM
+--------------------------------------------------
+
+Create reusable hero components.
+
+Hero types:
+
+HERO / ARCHITECTURE
+HERO / ATELIER
+HERO / HUMAN
+HERO / CRAFT
+HERO / CREATION
+HERO / BESPOKE
+HERO / COLLECTOR
+HERO / LEGACY
+
+The first hero of the homepage should prioritize:
+
+SPACE
+
+not PRODUCT.
+
+Hero components should support:
+
+full-screen image
+full-screen video
+split image
+editorial image
+image with minimal text
+image without text
+
+Do not create conventional commercial hero banners.
+
+--------------------------------------------------
+14 — VIDEO SYSTEM
+--------------------------------------------------
+
+Create reusable cinematic video components.
+
+Video must feel:
+
+slow
+observational
+documentary
+museum-like
+human
+
+Create:
+
+VIDEO / FULLSCREEN
+VIDEO / CINEMATIC
+VIDEO / SPLIT
+VIDEO / INLINE
+VIDEO / AMBIENT
+VIDEO / MOBILE
+
+Video transitions:
+
+fade
+cross dissolve
+light transition
+slow reveal
+
+Avoid:
+
+fast cuts
+commercial transitions
+aggressive zoom
+whip pans
+digital effects
+
+Video is atmosphere.
+
+Not decoration.
+
+--------------------------------------------------
+15 — MOTION CONSTITUTION
+--------------------------------------------------
+
+Motion should reveal.
+
+Never entertain.
+
+Create motion tokens:
+
+MOTION / INSTANT
+MOTION / FAST
+MOTION / MEDIUM
+MOTION / SLOW
+MOTION / CINEMATIC
+
+Preferred:
+
+slow fade
+soft reveal
+image opacity transition
+gentle parallax
+slow scale
+masked image reveal
+light movement
+
+The interface should feel almost physical.
+
+Like:
+
+opening a door
+turning a page
+entering a room
+moving through light
+
+--------------------------------------------------
+16 — NAVIGATION SYSTEM
+--------------------------------------------------
+
+Navigation must feel like entering a House.
+
+Do not create a conventional mega-menu as the primary experience.
+
+Primary navigation:
+
+THE HOUSE
+ATELIER
+MÉTIERS D'ART
+CREATIONS
+BESPOKE
+COLLECTORS
+JOURNAL
+BOUTIQUES
+
+Secondary:
+
+ABOUT
+SERVICE
+CORRESPONDENCE
+
+Primary CTA:
+
+ENTER THE HOUSE
+
+For collector journeys:
+
+PRIVATE APPOINTMENT
+
+Navigation should remain discreet.
+
+Use:
+
+small typography
+large spacing
+thin separators
+subtle transitions
+
+Avoid:
+
+heavy navigation bars
+large coloured buttons
+commercial labels
+
+--------------------------------------------------
+17 — BUTTON SYSTEM
+--------------------------------------------------
+
+Buttons should feel like invitations.
+
+Primary:
+
+ENTER THE HOUSE
+
+Secondary:
+
+DISCOVER
+
+EXPLORE THE ATELIER
+
+VIEW THE CREATION
+
+BEGIN A PRIVATE CONVERSATION
+
+REQUEST A PRIVATE APPOINTMENT
+
+FIND A BOUTIQUE
+
+Avoid:
+
+BUY NOW
+SHOP NOW
+ADD TO CART
+SALE
+LIMITED OFFER
+ACT NOW
+
+The language is:
+
+invitation
+
+not
+
+conversion.
+
+--------------------------------------------------
+18 — EDITORIAL COMPONENTS
+--------------------------------------------------
+
+Create reusable editorial blocks:
+
+EDITORIAL / QUOTE
+EDITORIAL / MANIFESTO
+EDITORIAL / ESSAY
+EDITORIAL / IMAGE + TEXT
+EDITORIAL / FULL BLEED
+EDITORIAL / SPLIT
+EDITORIAL / TEXT ONLY
+EDITORIAL / LARGE STATEMENT
+
+The text should have space to breathe.
+
+Never overfill.
+
+--------------------------------------------------
+19 — CRAFT COMPONENTS
+--------------------------------------------------
+
+Create components for:
+
+GRAND FEU ENAMEL
+HAND ENGRAVING
+GUILLOCHÉ
+MINIATURE PAINTING
+
+Each component supports:
+
+large image
+macro image
+short statement
+long editorial text
+video
+craft details
+
+Craft is always presented before technical specifications.
+
+--------------------------------------------------
+20 — HUMAN PRESENCE COMPONENTS
+--------------------------------------------------
+
+Create:
+
+ARTISAN PORTRAIT
+HANDS / CRAFT
+COLLECTOR PORTRAIT
+HOST PORTRAIT
+CONVERSATION
+PRESENTATION RITUAL
+
+Human presence must remain authentic.
+
+No fashion posing.
+
+No commercial lifestyle photography.
+
+Hands are a primary storytelling element.
+
+Use:
+
+Hands that Create
+Hands that Preserve
+Hands that Welcome
+Hands that Contemplate
+
+--------------------------------------------------
+21 — CREATION COMPONENTS
+--------------------------------------------------
+
+Create components for:
+
+CREATION / INTRODUCTION
+CREATION / PORTRAIT
+CREATION / CRAFT
+CREATION / DETAILS
+CREATION / MOVEMENT
+CREATION / STORY
+CREATION / SPECIFICATIONS
+CREATION / INQUIRY
+
+The visual hierarchy must remain:
+
+STORY
+
+then
+
+CRAFT
+
+then
+
+CREATION
+
+then
+
+SPECIFICATION
+
+then
+
+INQUIRY
+
+--------------------------------------------------
+22 — BESPOKE COMPONENTS
+--------------------------------------------------
+
+Create the foundational components for:
+
+BESPOKE / INTRODUCTION
+BESPOKE / ARTISAN
+BESPOKE / COLLECTOR
+BESPOKE / SKETCH
+BESPOKE / MATERIAL
+BESPOKE / CRAFT
+BESPOKE / PROCESS
+BESPOKE / FINAL CREATION
+BESPOKE / PRIVATE CONVERSATION
+
+Core phrase:
+
+CREATED FOR ONE.
+
+Primary CTA:
+
+BEGIN A PRIVATE CONVERSATION
+
+Bespoke must feel like the deepest emotional chapter of the House.
+
+--------------------------------------------------
+23 — COLLECTOR COMPONENTS
+--------------------------------------------------
+
+Create:
+
+COLLECTOR / WELCOME
+COLLECTOR / PRIVATE SALON
+COLLECTOR / APPOINTMENT
+COLLECTOR / CORRESPONDENCE
+COLLECTOR / COLLECTION
+COLLECTOR / BESPOKE
+COLLECTOR / LIFETIME CARE
+
+The collector is treated as:
+
+Guest
+→
+Observer
+→
+Participant
+→
+Collector
+→
+Custodian
+
+--------------------------------------------------
+24 — BOUTIQUE COMPONENTS
+--------------------------------------------------
+
+Create:
+
+BOUTIQUE / ARCHITECTURE
+BOUTIQUE / PRIVATE PRESENTATION
+BOUTIQUE / HOST
+BOUTIQUE / APPOINTMENT
+BOUTIQUE / LOCATION
+
+The boutique must feel like a private residence.
+
+No retail aesthetic.
+
+--------------------------------------------------
+25 — FORM SYSTEM
+--------------------------------------------------
+
+Forms should feel quiet and editorial.
+
+Create:
+
+Input
+Textarea
+Select
+Checkbox
+Radio
+Appointment Form
+Bespoke Inquiry Form
+Correspondence Form
+
+Use:
+
+thin borders
+subtle states
+generous spacing
+clear typography
+
+Avoid:
+
+large rounded UI
+bright coloured fields
+heavy shadows
+
+Form language should be:
+
+private
+discreet
+personal
+
+--------------------------------------------------
+26 — FOOTER
+--------------------------------------------------
+
+The footer should feel like the final room of the House.
+
+Include:
+
+HOUSE OF MILLIN
+
+THE HOUSE
+ATELIER
+MÉTIERS D'ART
+CREATIONS
+BESPOKE
+COLLECTORS
+JOURNAL
+BOUTIQUES
+
+CORRESPONDENCE
+
+PRIVATE APPOINTMENT
+
+Legal.
+
+The footer should be quiet.
+
+Never visually dominant.
+
+--------------------------------------------------
+27 — RESPONSIVE SYSTEM
+--------------------------------------------------
+
+Create responsive rules for:
+
+Desktop
+Tablet
+Mobile
+
+Mobile must preserve:
+
+cinematic rhythm
+negative space
+editorial hierarchy
+large imagery
+quiet typography
+
+Do not simply stack every desktop component.
+
+Recompose the experience.
+
+Mobile should feel like:
+
+a private edition of the House.
+
+--------------------------------------------------
+28 — ACCESSIBILITY
+--------------------------------------------------
+
+Maintain:
+
+strong text contrast
+clear focus states
+keyboard navigation
+semantic hierarchy
+accessible buttons
+alt text structure
+
+Accessibility must never compromise the visual language.
+
+--------------------------------------------------
+29 — COMPONENT NAMING
+--------------------------------------------------
+
+Use naming convention:
+
+Category / Component / Variant / State
+
+Examples:
+
+Hero / Architecture / Fullscreen / Default
+
+Hero / Creation / Editorial / Hover
+
+Craft / Enamel / Split / Default
+
+Navigation / Primary / Desktop / Default
+
+Button / Primary / Default
+
+Button / Secondary / Hover
+
+Bespoke / Process / Editorial / Default
+
+--------------------------------------------------
+30 — FIGMA ORGANIZATION
+--------------------------------------------------
+
+Create a clean Figma file structure.
+
+Pages:
+
+00_CONSTITUTION
+01_FOUNDATIONS
+02_TYPOGRAPHY
+03_COLOUR
+04_GRID
+05_SPACING
+06_MOTION
+07_COMPONENTS
+08_EDITORIAL
+09_CRAFT
+10_CREATIONS
+11_BESPOKE
+12_COLLECTORS
+13_BOUTIQUES
+14_RESPONSIVE
+15_PROTOTYPES
+
+Create a Design System cover page explaining:
+
+The House
+
+The Philosophy
+
+The Visual Language
+
+The Component Architecture
+
+The Usage Rules
+
+--------------------------------------------------
+31 — FINAL FOUNDATION TEST
+--------------------------------------------------
+
+Before completing PASS 01, verify:
+
+Does the system feel like a Maison?
+
+Does it feel architectural?
+
+Does it feel editorial?
+
+Does it feel human?
+
+Does it feel timeless?
+
+Does it feel quiet?
+
+Can the system support the entire House?
+
+Can the same system support:
+
+website
+Bespoke Atelier
+Collector Experience
+Journal
+House Bible
+films
+social media
+AI-generated imagery
+
+Does the system avoid e-commerce aesthetics?
+
+Does Space come before Product?
+
+Does Craft come before Commerce?
+
+Does Human Presence create emotional credibility?
+
+If any answer is NO,
+
+revise the foundation.
+
+--------------------------------------------------
+32 — DELIVERABLE
+--------------------------------------------------
+
+At the end of PASS 01, produce:
+
+1. Complete Figma Design System
+
+2. Typography tokens
+
+3. Colour variables
+
+4. Spacing variables
+
+5. Grid system
+
+6. Responsive rules
+
+7. Motion tokens
+
+8. Navigation components
+
+9. Button components
+
+10. Editorial components
+
+11. Image components
+
+12. Video components
+
+13. Craft components
+
+14. Creation components
+
+15. Bespoke components
+
+16. Collector components
+
+17. Boutique components
+
+18. Form components
+
+19. Footer
+
+20. Component documentation
+
+21. Responsive variants
+
+22. Prototype interaction examples
+
+Do not build the full website yet.
+
+Do not move into PASS 02.
+
+The objective of PASS 01 is to create the immutable visual and interaction foundation of:
+
+HOUSE OF MILLIN
+
+DIGITAL MAISON EXPERIENCE
+
+The system must feel like the digital equivalent of entering a private Maison dedicated to horological art.
+
+The House comes first.
+
+The Craft follows.
+
+The Human gives it meaning.
+
+The Creation becomes the culmination.
+
+The Collector becomes part of the legacy.
+
+HOUSE OF MILLIN
+
+TIME, CRAFTED.
