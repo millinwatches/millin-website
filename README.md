@@ -9,3 +9,7 @@
 
   Run `npm run dev` to start the development server.
   
+
+## Cloudflare Pages deployment
+
+The v5 static site package is stored in the repository root. Cloudflare Pages unpacks `MAISON_MILLIN_JOURNAL_WITH_CORRESPONDENCE_BACKEND_v5 (3).zip` into `dist` during the deployment build.
