@@ -1,0 +1,1 @@
+Remove the invalid catch-all Pages redirect `/* /index.html 200` during build. Cloudflare Pages already provides SPA fallback when no top-level 404.html exists. Keep explicit creation canonical redirects only.
