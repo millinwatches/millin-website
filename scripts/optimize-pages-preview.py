@@ -73,15 +73,15 @@ for page in sorted(root.rglob("*.html")):
     img_counter = [0]
     def img_repl(m):
         tag = m.group(0)
-        tag = re.sub(r"\\sloading=(['\\"]).*?\\1", "", tag, flags=re.I)
-        tag = re.sub(r"\\sdecoding=(['\\"]).*?\\1", "", tag, flags=re.I)
-        tag = re.sub(r"\\sfetchpriority=(['\\"]).*?\\1", "", tag, flags=re.I)
+        tag = re.sub(r"\sloading=(['"]).*?\1", "", tag, flags=re.I)
+        tag = re.sub(r"\sdecoding=(['"]).*?\1", "", tag, flags=re.I)
+        tag = re.sub(r"\sfetchpriority=(['"]).*?\1", "", tag, flags=re.I)
         tag = re.sub(r"\\s+", " ", tag)
         priority = img_counter[0] == 0
         img_counter[0] += 1
         attrs = ' loading="eager" fetchpriority="high" decoding="async"' if priority else ' loading="lazy" decoding="async"'
         return tag[:-1] + attrs + ">"
-    html = re.sub(r"<img\\b[^>]*>", img_repl, html, flags=re.I)
+    html = re.sub(r"<img\b[^>]*>", img_repl, html, flags=re.I)
 
     rel = "/" + str(page.relative_to(root)).replace("\\", "/")
     if rel.endswith("index.html"):
