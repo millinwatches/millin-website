@@ -3,6 +3,7 @@ import { motion, useInView, AnimatePresence } from "motion/react";
 import { Menu, X, ArrowRight } from "lucide-react";
 import { asset } from "../lib/millin-visual-library";
 import VisualWorldBoard from "./VisualWorldBoard";
+import Correspondence from "./Correspondence";
 
 // Hash-based board route — append #visual-world to the URL to open the board
 function useHashRoute() {
@@ -232,10 +233,10 @@ function HouseNavigation() {
 
           <div className="flex items-center gap-6">
             <div className="hidden lg:flex items-center gap-5">
-              {NAV_SECONDARY.slice(0, 2).map((item) => (
+              {NAV_SECONDARY.map((item) => (
                 <a
                   key={item}
-                  href="#"
+                  href={item === "CORRESPONDENCE" ? "#correspondence" : "#"}
                   className={`font-sans text-[8.5px] tracking-[0.22em] uppercase transition-colors duration-500 ${
                     navDark ? "text-[#F4F1EA]/35 hover:text-[#F4F1EA]/60" : "text-[#161616]/35 hover:text-[#161616]/60"
                   }`}
@@ -1265,7 +1266,7 @@ function HouseFooter() {
               {col.title}
             </p>
             {col.links.map((link) => (
-              <a key={link} href="#" className="block font-sans text-[11px] text-[#F4F1EA]/26 hover:text-[#F4F1EA]/52 transition-colors py-1">
+              <a key={link} href={link === "Correspondence" || link === "Contact" ? "#correspondence" : "#"} className="block font-sans text-[11px] text-[#F4F1EA]/26 hover:text-[#F4F1EA]/52 transition-colors py-1">
                 {link}
               </a>
             ))}
@@ -1289,6 +1290,7 @@ function HouseFooter() {
 export default function App() {
   const hash = useHashRoute();
   if (hash === "#visual-world") return <VisualWorldBoard />;
+  if (hash === "#correspondence") return <Correspondence />;
 
   return (
     <div className="overflow-x-hidden">
