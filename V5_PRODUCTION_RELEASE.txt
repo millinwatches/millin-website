@@ -1,0 +1,5 @@
+MAISON MILLIN v5 production release
+
+Production release branch: deploy/maisonmillin
+Archive: MAISON_MILLIN_JOURNAL_WITH_CORRESPONDENCE_BACKEND_v5 (3).zip
+Cloudflare Pages build extracts the archive into dist and publishes the root Functions directory.
