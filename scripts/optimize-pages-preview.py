@@ -70,21 +70,18 @@ for page in sorted(root.rglob("*.html")):
     html = data_uri.sub(externalize, original)
 
     # External images should not block the initial HTML response.
-    img_index = 0
-    def tune_img(m):
-        nonlocal_dummy = None
-        nonlocal_img = m.group(0)
-        nonlocal_dummy = nonlocal_img
-        nonlocal_dummy = re.sub(r"\sloading=(['\"]).*?\1", "", nonlocal_dummy, flags=re.I)
-        nonlocal_dummy = re.sub(r"\sdecoding=(['\"]).*?\1", "", nonlocal_dummy, flags=re.I)
-        nonlocal_dummy = re.sub(r"\sfetchpriority=(['\"]).*?\1", "", nonlocal_dummy, flags=re.I)
-        nonlocal_dummy = re.sub(r"\s+", " ", nonlocal_dummy)
-        return nonlocal_dummy[:-1] + (' loading="eager" fetchpriority="high" decoding="async">' if img_index == 0 else ' loading="lazy" decoding="async">')
+    img_counter = [0]
     def img_repl(m):
-        nonlocal_holder[0] += 1
-        return tune_img(m)
-    nonlocal_holder = [0]
-    html = re.sub(r"<img\b[^>]*>", img_repl, html, flags=re.I)
+        tag = m.group(0)
+        tag = re.sub(r"\\sloading=(['\\"]).*?\\1", "", tag, flags=re.I)
+        tag = re.sub(r"\\sdecoding=(['\\"]).*?\\1", "", tag, flags=re.I)
+        tag = re.sub(r"\\sfetchpriority=(['\\"]).*?\\1", "", tag, flags=re.I)
+        tag = re.sub(r"\\s+", " ", tag)
+        priority = img_counter[0] == 0
+        img_counter[0] += 1
+        attrs = ' loading="eager" fetchpriority="high" decoding="async"' if priority else ' loading="lazy" decoding="async"'
+        return tag[:-1] + attrs + ">"
+    html = re.sub(r"<img\\b[^>]*>", img_repl, html, flags=re.I)
 
     rel = "/" + str(page.relative_to(root)).replace("\\", "/")
     if rel.endswith("index.html"):
