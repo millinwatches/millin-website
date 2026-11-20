@@ -1,0 +1,3 @@
+MAISON MILLIN v5 deployment fix
+
+Cloudflare Pages Functions must be present in the repository root /functions directory. The Pages build command extracts the v5 archive into dist and copies dist/functions into /functions before publishing dist as static assets.
