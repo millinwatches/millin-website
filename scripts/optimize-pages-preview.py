@@ -76,7 +76,7 @@ for page in sorted(root.rglob("*.html")):
         tag = re.sub(r"\sloading=(['"]).*?\1", "", tag, flags=re.I)
         tag = re.sub(r"\sdecoding=(['"]).*?\1", "", tag, flags=re.I)
         tag = re.sub(r"\sfetchpriority=(['"]).*?\1", "", tag, flags=re.I)
-        tag = re.sub(r"\\s+", " ", tag)
+        tag = re.sub(r"\s+", " ", tag)
         priority = img_counter[0] == 0
         img_counter[0] += 1
         attrs = ' loading="eager" fetchpriority="high" decoding="async"' if priority else ' loading="lazy" decoding="async"'
